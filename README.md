@@ -43,8 +43,20 @@ ULA-sovellus on sovitettu erityisesti näiden kahden käännöksen (ULA, ULS) lu
 
 ## Tietosuojaseloste (Privacy Policy)
 
-**ULA-selain toimii täysin offline-tilassa eikä kerää, tallenna tai jaa mitään käyttäjätietoja.**
+**ULA-sovellus toimii täysin offline-tilassa eikä kerää, tallenna tai jaa mitään käyttäjätietoja.**
 
 Sovellus ei sisällä seurantaohjelmistoja (analytiikkaa), ei vaadi käyttäjätiliä, eikä lähetä tietoja lukutottumuksista tai laitteesta eteenpäin. Kaikki sovelluksen tarvitsema tieto (tekstit ja artikkelit) on pakattu valmiiksi sovelluksen sisään, eikä sovellus ota verkkoyhteyksiä ulospäin.
 
-**Tekijänoikeus ja tekijä:** Kaikki suomenkieliset käännöstekstit (*Arkisuomi* ja *Suorahko*), alaviitteet, käännöskommentit, tietoartikkelit ja ULA-sovellus ovat hankkeen tekijän **Arto Hoikkalan** omaa alkuperäistä tuotantoa.
+---
+
+## Tekijänoikeus ja lisenssit
+
+Tämä projekti käyttää jaettua lisenssiä (Split License), jossa ohjelmisto ja sisältö on lisensoitu erikseen.
+
+**1. Käännöstekstit ja artikkelit (Creative Commons)**
+Kaikki suomenkieliset käännöstekstit (*Arkisuomi* ja *Suorahko*), alaviitteet, käännöskommentit ja tietoartikkelit ovat hankkeen tekijän **Arto Hoikkalan** omaa alkuperäistä tuotantoa. 
+Niitä koskee **CC BY-NC-ND 4.0 -lisenssi** (Nimeä-EiKaupallinen-EiMuutoksia).
+Saat vapaasti kopioida ja jakaa tekstejä ei-kaupallisiin tarkoituksiin, kunhan mainitset tekijän ja lähdetekstin, etkä muokkaa itse sisältöä.
+
+**2. Koodi ja ohjelmisto (MIT)**
+Itse ULA-sovellus ja sen lähdekoodi julkaistaan avoimella **MIT-lisenssillä**. Saat käyttää ja muokata koodia vapaasti myös kaupallisissa hankkeissa. (Katso tarkemmat tiedot `LICENSE`-tiedostosta).
